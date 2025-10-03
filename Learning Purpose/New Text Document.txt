@@ -1,0 +1,25 @@
+make it the one home webpage using python flask and show on their to entre detail and store this data create one excel file as a database to databse and their top row consists the sr. , batch , Name of Alumni , Mobile No. , Email ID , Designation , compony , Address - District - SubDivision - Pin , Areawise , Country , Sector , International , domastic , profile image these like that this is the college data and add one more the Master login when master is login the they can see the all of the data and search the specific information like city sector and other  in one table form and add one login is batch mentor login when the batch mentor login they can see only their own batch student and if they are click the one specific entry to view their profile all details
+ data this are of using the python flask 
+
+
+
+make it one web-page home in flask using python and shows student login and sign-up , batch mentor login and sign-up , Admin login and sign-up admin must be only Two 
+when Student Sign-up take the Input's form -
+ batch , Name of Alumni , Mobile No. , Email ID , Designation , compony , Address - District - SubDivision - Pin , Areawise , Country , Sector , International , domastic , Social Media links must three options Linkedin facebook Instagram , profile picture.
+and maintain these data in excel file. as a database .
+and when they login then to show their profile information with their profile photo .
+when batch mentor Sign-up take the Input's form -
+Name , Email - ID , Mobile No. , Address , Social Media links must three options Linkedin facebook Instagram , Profile picture . and maintain the batch mentor data in one seperate excel file name in batchmentors.  as a database .
+and login then show their profile and scroll to show the the specific batch which this allocated student data to view and search the using specific item in the student entred data and edit it when any mistakes 
+
+
+make it one web-page home in flask using python and shows student login and sign-up , batch mentor login and sign-up , Admin login and sign-up admin must be only Two 
+when Student Sign-up take the Input's form -
+ batch , Name of Alumni , Mobile No. , Email ID , Designation , compony , Address - District - SubDivision - Pin , Areawise , Country , Sector , International , domastic , Social Media links must three options Linkedin facebook Instagram , profile picture.
+and maintain these data in excel file. as a database .
+and when they login then to show their profile information with their profile photo .
+when batch mentor Sign-up take the Input's form -
+Name , Email - ID , Mobile No. , Address , Social Media links must three options Linkedin facebook Instagram , Profile picture . and maintain the batch mentor data in one seperate excel file name in batchmentors.  as a database .
+and login then show their profile and scroll to show the the specific batch which this allocated student data to view and search the using specific item in the student entered data and edit it when any mistakes and store the new student information can add option must and if any features additions...
+Admin login and sign-up admin must be only Two 
+admin signup form is Name , Email - ID , Mobile No. , Address , Social Media links must three options Linkedin facebook Instagram , Profile picture . and maintain the Admin  data in one seperate excel file name in AdminS.  as a database .
