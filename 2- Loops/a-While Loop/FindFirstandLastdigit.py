@@ -11,5 +11,5 @@ while num!=0:
 
 num=temp
 print("First Digit is :",num//10**(count-1))
-print("Last Digit is :",num%10)
+
     
