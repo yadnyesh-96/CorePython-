@@ -1,4 +1,4 @@
 
 
 str1="python in india"
-print 
+print(str1.upper())
