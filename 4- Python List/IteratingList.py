@@ -1,5 +1,5 @@
 
-List=['Apple','Samsung','ViVo','Oppo','Xiomi','Intex']
+li= ['Apple','kivi','banana','cherry',]
 
-for item in List:
-    print(item,"\n")
+for i in li:
+    print(i)
