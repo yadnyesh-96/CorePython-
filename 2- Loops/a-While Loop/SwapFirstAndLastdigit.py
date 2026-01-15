@@ -4,7 +4,13 @@ print("---- Swap First and Last digit of Number ----")
 
 num =int(input("Enter the Number : "))
 temp=num
-count=0
+# count=0
+# while num!=0:
+#     rem=num%10
+#     num=num//10
+#     count+=1
+    
+# num=temp        #7894
 print("Before the swap first and Last digit: ",num)
 first_digit=num//(10**(count-1)) #  7
 last_digit=num%10                #  4
