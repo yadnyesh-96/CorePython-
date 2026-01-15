@@ -7,4 +7,11 @@ Example : A prime number is a number that can only be divided by itself and 1 wi
 n = int(input("Enter the number: "))
 
 if n <= 1:
-
+    print("Not a prime number")
+else:
+    for i in range(2, n//2 + 1):
+        if n % i == 0:
+            print("Not a prime number")
+            break
+    else:
+        print("Prime number")
