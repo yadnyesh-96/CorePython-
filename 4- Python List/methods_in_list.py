@@ -5,7 +5,7 @@ n = ["Amruta","Sanket","Umesh","Sneha","Dipti","Sonali","Shital"]
 print("1:",n)
 print("2:",n[2:5:2])
 print("3:",n[1::3])
-print("4:",n[3:5])
+# print("4:",n[3:5])
 
 #display sliced list
 print("5:",n[::2])
