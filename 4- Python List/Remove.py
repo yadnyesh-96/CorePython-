@@ -8,5 +8,4 @@ print("After Remove the element in List =",L)
 value=L.pop(3)
 print(f"pop element is {value} and List is ={L}")
 
-del L[0] # delete the specific index value
-print("After deleting element",L)
+del L[0] # delete the specific index valu("After deleting element",L)
