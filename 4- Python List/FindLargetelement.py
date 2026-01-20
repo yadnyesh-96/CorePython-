@@ -5,7 +5,3 @@ max_val=li[0]
 for i in li:
     if(i > max_val):
         max_val=i
-
-print(max_val)    
-        
-            
