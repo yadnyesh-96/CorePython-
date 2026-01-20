@@ -1,4 +1,4 @@
-n = ["Amruta","Samket","Umesh","Sneha","Dipti","Sonali","Shtal"]
+n = ["Amruta","Samket","Umesh","Sneha","Dipti","Sonali","Shital"]
 
 
 # list_name[start:stop:stepsize]
