@@ -6,7 +6,7 @@
 # insert(): Adds an element at a specific position.
 # clear(): removes all items.
 
-l1=[10,20,30,40,50]
+# l1=[10,20,30,40,50]
 
 print("List",l1)
 l1.append(60) #Adds an element at the end of the list.
